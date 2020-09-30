@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "314629396459",
+    "firebase_url": "https://challenge-49d75.firebaseio.com",
+    "project_id": "challenge-49d75",
+    "storage_bucket": "challenge-49d75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314629396459:android:9775810d7ec8098d46abae",
+        "android_client_info": {
+          "package_name": "com.hcmut.challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314629396459-e6fv0ie19sgnp7t28ggdj36s0efnboqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hcmut.challenge",
+            "certificate_hash": "ff443798936d140f52f462090472ad2531e0351e"
+          }
+        },
+        {
+          "client_id": "314629396459-nql0c7fo7l8quco6f4k5c2idji4rsant.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB1eUpPGeeM69OM5JoY-THVpXsL5ZFFcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314629396459-nql0c7fo7l8quco6f4k5c2idji4rsant.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
